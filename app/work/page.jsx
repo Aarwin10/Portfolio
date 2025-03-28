@@ -25,32 +25,32 @@ import WorkSliderBtns from "@/components/ui/WorkSliderBtns";
 const projects = [
   {
     num: "01",
-    category: "frontend",
-    title: "project 1",
+    category: "Full-Stack",
+    title: "GreenMindAi",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae labore ullam ipsa dolorum aperiam.",
-    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
+      "GreenMindAi enables users to report waste, which is detected, categorized, and tracked on a map, incentivizing efficient waste management.",
+    stack: [{ name: "Next.js" }, { name: "TailwindCss" }, { name: "PostGreSQL" }],
     image: "/assets/props/work/thumb1.png",
     live: "",
     github: "",
   },
   {
     num: "02",
-    category: "fullstack",
-    title: "project 2",
+    category: "Full-Stack",
+    title: "Link-o-Matic",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae labore ullam ipsa dolorum aperiam.",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+      "Linkomatic converts URLs into engaging summary videos, enables interactive video-based chat, and enhances accessibility through AI-driven summarization.",
+    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "HuggingFaceAi" }],
     image: "/assets/props/work/thumb2.png",
     live: "",
     github: "",
   },
   {
     num: "03",
-    category: "frontend",
-    title: "project 3",
+    category: "Frontend",
+    title: "ShutterSphere",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae labore ullam ipsa dolorum aperiam.",
+      "A platform that connects professional and casual photographers, enabling networking, collaboration, and exposure through a shared community.",
     stack: [{ name: "Next.js" }, { name: "Tailwind.css" }],
     image: "/assets/props/work/thumb3.png",
     live: "",
